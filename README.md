@@ -30,7 +30,7 @@ Library is compatible with both Python 2.x and 3.x versions.
 To install pythingy library you need to clone repository and run pip installer:
 ```
 git clone https://github.com/ChevalierDeBalibari/pythingy
-cd myair
+cd pythingy
 pip install bluepy
 pip install . 
 ```
